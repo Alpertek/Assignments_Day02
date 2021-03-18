@@ -10,11 +10,11 @@ public class EmployeeInfo {
 		String jobTitle = "Full Stack QA Engineer";
 		int salary = 5000 ;
 		
-		System.out.println("Company name : CyberAlp Inc." + companyName);
-		System.out.println("Employee name : Alperen YILDIRIM" + name);
-		System.out.println("Employee id : 12" + employeeId);
-		System.out.println("Job Title : Full Stack QA Engineer" + jobTitle);
-		System.out.println("Salary(euro) :  5000" + salary);
+		System.out.println("Company name : " + companyName);
+		System.out.println("Employee name : " + name);
+		System.out.println("Employee id : " + employeeId);
+		System.out.println("Job Title : " + jobTitle);
+		System.out.println("Salary(euro) : " + salary);
 	} 
 
 }
